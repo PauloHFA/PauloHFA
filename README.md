@@ -1,6 +1,6 @@
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=230&section=header&text=Paulo%20HFA&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Architecture%20%26%20Distributed%20Systems&descSize=18&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=230&section=header&text=Paulo%20HFA&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Architecture%20%E2%80%A2%20Distributed%20Systems&descSize=18&descAlignY=58&animation=twinkling" alt="Header Banner" />
 
   <!-- Typing Animation -->
   <a href="https://github.com/PauloHFA">
